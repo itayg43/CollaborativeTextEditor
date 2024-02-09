@@ -1,5 +1,7 @@
+import TextEditor from "./components/TextEditor";
+
 const App = () => {
-  return <></>;
+  return <TextEditor />;
 };
 
 export default App;
